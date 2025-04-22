@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Health - Mind & Earth</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mind & Earth: Mental Health & Sustainable Living</h1>
+        <p>Empowering Minds | Healing the Planet</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="mental-health.html">Mental Health</a>
+        <a href="sustainable-practices.html">Sustainable Practices</a>
+        <a href="contact.html">Contact Us</a>
+    </nav>
+    <div class="container">
+        <h2>Mental Health Support</h2>
+        <p>Learn about various mental health issues, read personal stories, and find resources to get the help you need.</p>
+    </div>
+    <footer>
+        <p>© 2025 Mind & Earth | Created by Junior & Everton Teixeira</p>
+    </footer>
+</body>
+</html>
