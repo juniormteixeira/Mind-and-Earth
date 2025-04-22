@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Mind & Earth</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mind & Earth: Mental Health & Sustainable Living</h1>
+        <p>Empowering Minds | Healing the Planet</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="mental-health.html">Mental Health</a>
+        <a href="sustainable-practices.html">Sustainable Practices</a>
+        <a href="contact.html">Contact Us</a>
+    </nav>
+    <div class="container">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need support, please feel free to contact us through the form below or by email.</p>
+        <form>
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required><br>
+            <label for="message">Your Message:</label><br>
+            <textarea id="message" name="message" rows="4" cols="50" placeholder="Write your message here..." required></textarea><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+    <footer>
+        <p>© 2025 Mind & Earth | Created by Junior & Everton Teixeira</p>
+    </footer>
+</body>
+</html>
